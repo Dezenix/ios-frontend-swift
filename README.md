@@ -1,6 +1,5 @@
 <h1 align="center">Ios Frontend Swift</h1>
 
-![8](https://user-images.githubusercontent.com/79747022/151584986-54e6d24f-6c1d-4524-b907-57617bd2fec1.png)
 
 <div align="center">
 
@@ -48,5 +47,5 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![t](https://user-images.githubusercontent.com/79747022/151585008-ed0da73d-d3ca-4a0e-b784-d5b29d6d515a.png)
+
 
